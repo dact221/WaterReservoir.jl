@@ -3,6 +3,9 @@ uuid = "668a9999-4ef4-4ca3-b869-d2c61a79ca06"
 authors = ["Diego A. Casas"]
 version = "0.1.0"
 
+[deps]
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+
 [compat]
 julia = "1"
 
